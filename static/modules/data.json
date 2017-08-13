@@ -1,0 +1,207 @@
+{
+	"projectList":{
+		"status":1,
+		"data":{
+			"organization":"顺丰大学",
+			"system":"人力资源",
+			"kind":"全员",
+			"project":[
+
+					{
+						"id":123,
+						"title":"如何动态搭建事业群管理体系",
+						"kind":"顺丰大学",
+						"praise":63,
+						"join":163,
+						"couseImages":"../../static/img/courselist_1.png"
+
+					},
+					{
+						"id":123,
+						"title":"如何动态搭建事业群管理体系1",
+						"kind":"顺丰大学",
+						"praise":3,
+						"join":13,
+						"couseImages":"../../static/img/courselist_1.png"
+
+					},
+					{
+						"id":123,
+						"title":"如何动态搭建事业群管理体系3",
+						"mark":"原创",
+						"kind":"顺丰大学",
+						"praise":334,
+						"join":13,
+						"couseImages":"../../static/img/courselist_1.png"
+
+					},
+					{
+						"id":123,
+						"title":"如何动态搭建事业群管理体系4",
+						"kind":"顺丰大学",
+						"praise":3,
+						"join":13,
+						"couseImages":"../../static/img/courselist_1.png"
+
+					},
+					{
+						"id":123,
+						"title":"如何动态搭建事业群管理体系1",
+						"kind":"顺丰大学",
+						"praise":3,
+						"join":133,
+						"couseImages":"../../static/img/courselist_1.png"
+
+					},
+					{
+						"id":123,
+						"title":"如何动态搭建事业群管理体系3",
+						"kind":"顺丰大学",
+						"praise":3,
+						"join":13,
+						"couseImages":"../../static/img/courselist_1.png"
+
+					},
+					{
+						"id":123,
+						"title":"如何动态搭建事业群管理体系4",
+						"kind":"顺丰大学",
+						"praise":3,
+						"join":113,
+						"couseImages":"../../static/img/courselist_1.png"
+
+					}
+
+				]
+		}
+	},
+	"courseKind":{
+		"status":1,
+		"data":[
+			{
+				"title":"组织",
+				"list":[
+					"顺丰大学",
+					"顺丰航空",
+					"顺丰大学",
+					"顺丰航空",
+					"顺丰大学",
+					"顺丰航空",
+					"顺丰大学",
+					"顺丰航空"
+				]
+			},
+			{
+				"title":"课程体系",
+				"list":[
+					"人力资源",
+					"IT技术"
+				]
+			},
+			{
+				"title":"体系类别",
+				"list":[
+					"高管",
+					"全员"
+				]
+			}
+		]
+	
+	},
+	"courseList":{
+		"status":1,
+		"data":[
+			{
+				"id":12,
+				"name":"如何动态搭建事业",
+				"coursesType":0,
+				"fileType":0,
+				"commentStar":"63%",
+				"learningCount":163,
+				"image":"../../static/img/courselist_1.png",
+				"isOfficial":0,
+				"isOriginal":1,
+				"progress":0
+
+			},
+			{
+				"id":12,
+				"name":"如何动态搭建事业群管理体系1",
+				"coursesType":0,
+				"fileType":0,
+				"commentStar":"3%",
+				"learningCount":13,
+				"image":"../../static/img/courselist_1.png",
+				"isOfficial":0,
+				"isOriginal":1,
+				"progress":10
+
+			},
+			{
+				"id":12,
+				"name":"如何动态搭建事业群管理体系3",
+				"coursesType":0,
+				"fileType":0,
+				"commentStar":"334%",
+				"learningCount":13,
+				"image":"../../static/img/courselist_1.png",
+				"isOfficial":1,
+				"isOriginal":0,
+				"progress":30
+
+			},
+			{
+				"id":12,
+				"name":"如何动态搭建事业群管理体系4",
+				"coursesType":0,
+				"fileType":0,
+				"commentStar":"3%",
+				"learningCount":13,
+				"image":"../../static/img/courselist_1.png",
+				"isOfficial":0,
+				"isOriginal":1,
+				"progress":30
+
+			},
+			{
+				"id":12,
+				"name":"如何动态搭建事业群管理体系1",
+				"coursesType":0,
+				"fileType":0,
+				"commentStar":"3%",
+				"learningCount":133,
+				"image":"../../static/img/courselist_1.png",
+				"isOfficial":0,
+				"isOriginal":1,
+				"progress":30
+
+			},
+			{
+				"id":12,
+				"name":"如何动态搭建事业群管理体系3",
+				"coursesType":0,
+				"fileType":0,
+				"commentStar":"3%",
+				"learningCount":13,
+				"image":"../../static/img/courselist_1.png",
+				"isOfficial":1,
+				"isOriginal":0,
+				"progress":80
+
+			},
+			{
+				"id":12,
+				"name":"如何动态搭建事业群管理体系4",
+				"coursesType":0,
+				"fileType":0,
+				"commentStar":"3%",
+				"learningCount":113,
+				"image":"../../static/img/courselist_1.png",
+				"isOfficial":0,
+				"isOriginal":1,
+				"progress":30
+
+			}
+		]
+	}
+}

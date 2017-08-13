@@ -1,0 +1,142 @@
+[
+	{
+		"title": "项目名称",
+		"list": [
+			{
+				"path": "/main",
+				"name": "main",
+				"title": "学习"
+			},{
+				"path": "/courseTypes",
+				"name": "courseTypes",
+				"title": "课程分类"
+			},{
+				"path": "/onLineCourse/:ID",
+				"name": "onLineCourse",
+				"title": "在线课程详情页"
+			},{
+				"path": "/faceToFaceCourse/:ID",
+				"name": "faceToFaceCourse",
+				"title": "面授课程详情页"
+			},{
+				"path": "/trainCourse/:ID",
+				"name": "trainCourse",
+				"title": "培训项目"
+			},{
+				"path": "/ProjectList/:ID",
+				"name": "ProjectList",
+				"title": "项目"
+			},{
+				"path": "/CourseList/:ID",
+				"name": "CourseList",
+				"title": "课程"
+			},{
+				"path":"/SearchIndex",
+				"name":"SearchIndex",
+				"title":"搜索"
+			},{
+				"path":"/MyCenter",
+				"name":"MyCenter",
+				"title":"个人中心"
+			},{
+				"path":"/MyCenter/MyCourse",
+				"name":"MyCourse",
+				"title":"我的课程"
+			},{
+				"path":"/MyCenter/MyProject",
+				"name":"MyProject",
+				"title":"项目管理"
+			},{
+
+				"path": "/kaoshi-datiye/:ID",
+				"name": "kaoshi-datiye",
+				"title": "考试"
+			},{
+				"path": "/myClasses",
+				"name": "myClasses",
+				"title": "我的班级"
+			},{
+				"path": "/myClassesDetail/:ID",
+				"name": "myClassesDetail",
+				"title": "班级"
+			},{
+				"path": "/myExamList",
+				"name": "myExamList",
+				"title": "我的考试"
+			},{
+				"path": "/mySurvey",
+				"name": "mySurvey",
+				"title": "我的调研"
+			},{
+				"path": "/scanToExpressCourse",
+				"name": "scanToExpressCourse",
+				"title": "课程评价"
+			},{
+				"path": "/scanToExpressClass/:ID",
+				"name": "scanToExpressClass",
+				"title": "班级评价"
+			},{
+				"path": "/MyCenter/MyCollect",
+				"name": "MyCollect",
+				"title": "我的收藏"
+			},{
+				"path": "/diaoyan/:ID",
+				"name": "diaoyan",
+				"title": "调研"
+			},{
+				"path": "/consultDetail/:ID",
+				"name": "consultDetail",
+				"title": "资讯"
+			},{
+				"path": "/registerAttendance/:ID",
+				"name": "registerAttendance",
+				"title": "扫码成功"
+			},{
+				"path": "/teacherHome/:ID",
+				"name": "teacherHome",
+				"title": "讲师详情"
+			},{
+				"path": "/messageLists",
+				"name": "messageLists",
+				"title": "消息"
+			},{
+				"path": "/MyProjectManage/:ID",
+				"name": "MyProjectManage",
+				"title": "班级管理"
+			},{
+				"path": "/MyProjectCollege/:ID",
+				"name": "MyProjectCollege",
+				"title": "学员管理"
+			},{
+				"path": "/TeacherList/:ID",
+				"name": "TeacherList",
+				"title": "讲师"
+			},{
+				"path": "/onLineCourseOffice/:ID",
+				"name": "onLineCourseOffice",
+				"title": "在线课程详情页"
+			},{
+				"path": "/channelList",
+				"name": "channelList",
+				"title": "员工管理"
+			},{
+				"path": "/channelManage",
+				"name": "channelManage",
+				"title": "频道管理"
+			},{
+				"path": "/channelApply",
+				"name": "channelApply",
+				"title": "频道申请"
+			},{
+				"path": "/channelSearchIndex",
+				"name": "channelSearchIndex",
+				"title": "搜索"
+			},{
+				"path": "/channelDetailSuper",
+				"name": "channelDetailSuper",
+				"title": "专家达人"
+			}
+
+		]
+	}
+]

@@ -1,0 +1,69 @@
+@signsWidth: 61;
+@signsHeight: 1567;
+@signs3Width: 161;
+@signs3Height: 1122;
+@signs4Width: 80;
+@signs4Height: 2150;
+.bgPosition(@spriteWidth, @spriteHeight, @iconWidth, @iconHeight, @iconX, @iconY){
+    background-position: (@iconX / (@spriteWidth - @iconWidth)) * 100% (@iconY / (@spriteHeight - @iconHeight)) * 100%
+}
+.appearance-clear{
+	appearance:none;
+	-moz-appearance:none; /* Firefox */
+	-webkit-appearance:none; /* Safari 和 Chrome */
+}
+.border-radius (@radius) {
+  border-radius: @radius;
+  -moz-border-radius: @radius;
+  -webkit-border-radius: @radius;
+}
+.transform-translateY (@translateY) {
+	transform: translateY(@translateY);
+	-webkit-transform: translateY(@translateY);
+	-moz-transform: translateY(@translateY);
+	-ms-transform: translateY(@translateY);
+	-o-transform: translateY(@translateY);
+}
+.transform-translateX (@translateX) {
+	transform: translateX(@translateX);
+	-webkit-transform: translateX(@translateX);
+	-moz-transform: translateX(@translateX);
+	-ms-transform: translateX(@translateX);
+	-o-transform: translateX(@translateX);
+}
+.transform-translate (@translateX, @translateY) {
+	transform: translate(@translateX, @translateY);
+	-webkit-transform: translate(@translateX, @translateY);
+	-moz-transform: translate(@translateX, @translateY);
+	-ms-transform: translate(@translateX, @translateY);
+	-o-transform: translate(@translateX, @translateY);
+}
+.transform-translateXY (@translateX,@translateY,@translateZ) {
+	transform: translate3d(@translateX,@translateY,0);
+	-webkit-transform: translate3d(@translateX,@translateY,0);
+	-moz-transform: translate3d(@translateX,@translateY,0);
+	-ms-transform: translate3d(@translateX,@translateY,0);
+	-o-transform: translate3d(@translateX,@translateY,0);
+}
+.blur(@level){
+	filter: blur(@level);
+	-webkit-filter: blur(@level); /* Chrome, Opera */
+	-moz-filter: blur(@level);
+	-ms-filter: blur(@level);   
+}
+.not-allow-select {
+	 /*禁止选中文字*/
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+}
+.allow-select {
+	 /*选中文字*/
+	-moz-user-select: auto;
+	-khtml-user-select: auto;
+	-webkit-user-select: auto;
+}
+
+textarea, input{
+	.appearance-clear;
+}
